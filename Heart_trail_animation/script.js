@@ -1,5 +1,7 @@
 const bodyE1 = document.querySelector("body")
 
 bodyE1.addEventListener("mousemove", (event)=>{
-    console.log("event.offsetY");
+    console.log("event.offsetX");
 })
+
+console.log("hi")
